@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    text-align: center;
+}
+. h1 {
+
+}
+.season-buttons {
+    margin-bottom: 25px;
+}
+.season-btn {
+    padding: 25px 25px;
+    margin: 5px;
+    font-size: 18px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    color: black;
+}
+.month-buttons {
+    margin-top: 25px;
+}
+.month-btn {
+    padding: 25px 25px;
+    margin: 5px;
+    font-size: 18px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    color: black;
+}
+.winter {
+    background-color: #00bafd;
+}
+
+.spring {
+    background-color: #45e145;
+}
+
+.summer {
+    background-color: yellow;
+}
+
+.autumn {
+    background-color: orange;
+}
