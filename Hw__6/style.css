@@ -3,6 +3,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-image: url(https://img.freepik.com/free-photo/christmas-celebration-with-snowman_23-2151085040.jpg);
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .container {
     text-align: center;
